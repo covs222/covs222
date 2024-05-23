@@ -1,16 +1,12 @@
-## Hi there 👋
+## Bem Vindo rapeize, essa é a minha biografia👋
+- Eu sou skatista 🛹
+- Sou o ultimo romantico do planeta terra 👩‍❤️‍👨
+- Estudo no alura
+- Quero fazer faculdade de designer de games 🎮
+- Gosto de jogar basquete 🏀
+- Ja pensei em fazer facul de direito e moda
 
-<!--
-**covs222/covs222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## entre em contato comigo por
+  00001106644141sp@al.educacao.sp.gov.br
+  
+![](https://media1.tenor.com/m/DfqGNaq-cisAAAAC/epic-skate-cat.gif)
